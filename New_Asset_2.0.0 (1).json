@@ -1,5 +1,5 @@
 {
-  "id": "com.Priyanka.sap.sac.excel",
+  "id": "com-fd-djaja-sap-sac-excel",
   "version": "1.0.0",
   "name": "CustomWidget",
   "description": "Custom Widget to Load Master Data into a Dimension through Flat File Using Analytic Application",
@@ -12,14 +12,14 @@
   "webcomponents": [
     {
       "kind": "main",
-      "tag": "com-Priyanka-sap-sac-excel",
+      "tag": "com-fd-djaja-sap-sac-excel",
       "url": "https://Koalk7.github.io/ExcelUpload/excel.js",
       "integrity": "",
       "ignoreIntegrity": true
     },
     {
       "kind": "styling",
-      "tag": "com-Priyanka-sap-sac-excel-aps",
+      "tag": "com-fd-djaja-sap-sac-excel-aps",
       "url": "https://Koalk7.github.io/ExcelUpload/aps_excel.js",
       "integrity": "",
       "ignoreIntegrity": true
