@@ -347,8 +347,7 @@
 
                                 var len = 0;
                                 if (lengthfield === 6) {
-                                    for (var i = 1; i < result.split("[$@~!~@$]").length; i++) {
-                                        if ( i == 50 ) { return [];} 
+                                    for (var i = 1; i < result.split("[$@~!~@$]").length; i++) { 
                                         if (result.split("[$@~!~@$]")[i].length > 0) {
 
                                             var rec = result.split("[$@~!~@$]")[i].split("[#@~!~@#]");
