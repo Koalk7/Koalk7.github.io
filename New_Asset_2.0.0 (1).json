@@ -13,14 +13,14 @@
     {
       "kind": "main",
       "tag": "com-fd-djaja-sap-sac-excel",
-      "url": "https://Koalk7.github.io/ExcelUpload/excel.js",
+      "url": "https://Koalk7.github.io/excel.js",
       "integrity": "",
       "ignoreIntegrity": true
     },
     {
       "kind": "styling",
       "tag": "com-fd-djaja-sap-sac-excel-aps",
-      "url": "https://Koalk7.github.io/ExcelUpload/aps_excel.js",
+      "url": "https://Koalk7.github.io/aps_excel.js",
       "integrity": "",
       "ignoreIntegrity": true
     }
