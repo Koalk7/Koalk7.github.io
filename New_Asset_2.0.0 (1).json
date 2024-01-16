@@ -1,5 +1,5 @@
 {
-  "id": "com-fd-djaja-sap-sac-excel",
+  "id": "com.Marco.sap.sac.excel",
   "version": "1.0.0",
   "name": "CustomWidget",
   "description": "Custom Widget to Load Master Data into a Dimension through Flat File Using Analytic Application",
